@@ -1,0 +1,9 @@
+pandas
+openpyxl
+json
+json-tools
+selenium
+unittest
+ddt
+configparser
+BeautifulReport
